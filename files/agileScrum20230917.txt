@@ -1,0 +1,38 @@
+is there a separate QA?
+is there intergration test ? 
+what does deployment look like ? Automatic? Feature flags?
+Is this any 
+
+0.5 has the backlog been prioritized, dependencied, and T-shirt sized,
+defintion
+you don't need Product Manager from sprint
+
+1. Product Backlog
+1.1 capacity, vacations
+1.2 past history
+1.3 any must have security patches, upgrades, 
+1.4. interpendencies between teams and timing
+2. arranged in sprints?
+3. .5 - 2 day increments for sprint items
+3.1 don't forget task dev, task qa
+4. Burn down chart 
+5. Retrospective, lessons learned , demonstrate!
+
+Plan
+Build
+Test
+Review
+
+Sprint 1
+1. Analyze alternative
+2. Design 
+3. Build solution
+4. test case development
+5. test case execution
+6. integraiton test
+7. deployment write up, 
+7.1 booking deployement time
+
+sprint planning (Po, SM, team)
+Daily scrum 
+Sprint review and retrospetive s
